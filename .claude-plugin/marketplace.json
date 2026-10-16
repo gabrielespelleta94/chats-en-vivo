@@ -1,0 +1,13 @@
+{
+  "name": "chats-en-vivo",
+  "owner": {
+    "name": "Gabriel Espelleta"
+  },
+  "plugins": [
+    {
+      "name": "chats-en-vivo",
+      "source": "./",
+      "description": "Panel con todos los chats de la app de escritorio y si están trabajando"
+    }
+  ]
+}

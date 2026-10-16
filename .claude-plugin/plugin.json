@@ -1,0 +1,1 @@
+{ "name": "chats-en-vivo", "version": "0.1.0", "description": "Panel a la derecha con los chats que están pensando y cómo van", "types": "./types/index.d.ts" }
